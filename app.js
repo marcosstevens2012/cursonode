@@ -35,7 +35,7 @@ debug('Conenctando con la bd...');
 // })
 
 app.get('/', (req, res) => {
-    res.send('Hola Mundo desde Express 3.');
+    res.send('RICHARD TKM, YA COMPRE LA CARNE PARA EL ASADO.');
 });
 
 const port = process.env.PORT || 3000;
